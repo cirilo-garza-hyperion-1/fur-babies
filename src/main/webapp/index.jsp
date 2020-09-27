@@ -12,11 +12,8 @@
 
 
 
-    <main>
-        <section>
+
             <h1>Fur Babies</h1>
-        </section>
-    </main>
 
 
 
